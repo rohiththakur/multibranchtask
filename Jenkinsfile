@@ -5,4 +5,6 @@ node {
    echo 'test'
    stage 'archieve'
    echo 'archieved'
+   stage 'deploy'
+   echo 'avengers'
 }
