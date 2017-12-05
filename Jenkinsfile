@@ -4,5 +4,5 @@ node {
    stage 'test'
    echo 'test'
    stage 'UNO'
-   echo 'caught'
+   echo 'show'
 }
